@@ -1,0 +1,17 @@
+.edit-box {
+  width: 100%;
+  /* border: 2px dashed blue; */
+  background-color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.edit {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+

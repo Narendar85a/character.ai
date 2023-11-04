@@ -1,0 +1,17 @@
+.side {
+    display: flex;
+   flex-direction: column;
+   height: 100%;
+   /* border: 2px solid green; */
+   position: fixed;
+   gap: 20px;
+}
+
+.side-icon {
+   color: grey;
+}
+
+.side-btn {
+   color: grey;
+   text-transform: capitalize;
+}
